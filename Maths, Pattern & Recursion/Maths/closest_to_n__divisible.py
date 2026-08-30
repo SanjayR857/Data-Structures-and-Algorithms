@@ -1,6 +1,6 @@
 import math
 
-class Sloution:
+class Solution:
 
     """
 
@@ -18,7 +18,7 @@ class Sloution:
 
     """
 
-    def slove(self,num,m): 
+    def solve(self,num,m): 
         # Time: O(1) | Space: O(1)
         divided = num/m
 
@@ -36,6 +36,6 @@ class Sloution:
 if __name__ == "__main__": 
     num = 11
     m = 4
-    sol = Sloution()
-    print(sol.slove(num,m))
+    sol = Solution()
+    print(sol.solve(num,m))
 

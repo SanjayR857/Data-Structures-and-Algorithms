@@ -1,0 +1,10 @@
+id,title,platform,difficulty,topic,pattern,status,file_path
+0001,Two Sum,LeetCode,Easy,Arrays,Hash Map,Solved,08-Problem-Bank/arrays-and-strings/0001-two-sum.md
+0015,3Sum,LeetCode,Medium,Arrays,Two Pointers,Needs Revision,08-Problem-Bank/arrays-and-strings/0015-3sum.md
+0053,Maximum Subarray,LeetCode,Medium,Arrays,Kadane's / DP,Solved,08-Problem-Bank/arrays-and-strings/0053-maximum-subarray.md
+0042,Trapping Rain Water,LeetCode,Hard,Arrays,Two Pointers / Stack,Needs Revision,08-Problem-Bank/arrays-and-strings/0042-trapping-rain-water.md
+0141,Linked List Cycle,LeetCode,Easy,Linked Lists,Fast & Slow Pointers,Solved,08-Problem-Bank/linked-lists/0141-linked-list-cycle.md
+0206,Reverse Linked List,LeetCode,Easy,Linked Lists,Iteration,Solved,08-Problem-Bank/linked-lists/0206-reverse-linked-list.md
+0102,Binary Tree Level Order Traversal,LeetCode,Medium,Trees,BFS,Solved,08-Problem-Bank/trees-and-graphs/0102-level-order.md
+0200,Number of Islands,LeetCode,Medium,Graphs,BFS / DFS,Solved,08-Problem-Bank/trees-and-graphs/0200-number-of-islands.md
+0300,Longest Increasing Subsequence,LeetCode,Medium,Dynamic Programming,Binary Search / DP,Needs Revision,08-Problem-Bank/dynamic-programming/0300-lis.md

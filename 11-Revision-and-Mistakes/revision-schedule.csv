@@ -1,0 +1,5 @@
+problem_id,problem_title,topic,difficulty,first_solved,day_1_rev,day_3_rev,day_7_rev,day_14_rev,mastered
+0001,Two Sum,Arrays,Easy,2026-10-17,2026-10-18,2026-10-20,2026-10-24,2026-10-31,false
+0015,3Sum,Arrays,Medium,2026-10-17,2026-10-18,2026-10-20,2026-10-24,2026-10-31,false
+0053,Maximum Subarray,Arrays,Medium,2026-10-17,2026-10-18,2026-10-20,2026-10-24,2026-10-31,false
+0042,Trapping Rain Water,Arrays,Hard,2026-10-17,2026-10-18,2026-10-20,2026-10-24,2026-10-31,false
